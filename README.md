@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **x86-x64 Assembly**
 
-- 📫 How to reach me **c0ncatenate47@gmail.com**
+- 📫 How to reach me: **c0ncatenate47@gmail.com**
 
 - ⚡ Fun fact **I can play guitar**
 
