@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arsh</h1>
+<h1 align="center">Hi, I'm Arsh</h1>
 <h3 align="center">I'm a Cyber Security student from Coventry, United Kingdom</h3>
 
 <p align="left"> <a href="https://twitter.com/arshlinux" target="blank"><img src="https://img.shields.io/twitter/follow/arshlinux?logo=twitter&style=for-the-badge" alt="arshlinux" /></a> </p>
