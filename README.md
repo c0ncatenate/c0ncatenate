@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Arsh!</h1>
 <h3 align="center">I'm a Cyber Security student from Coventry, United Kingdom</h3>
 
-- I’m currently working on a ransomware called **Prometheus Ransomware**
-
 - How to reach me: **c0ncatenate47@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
