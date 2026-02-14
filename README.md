@@ -53,15 +53,26 @@ If your org cares about how an attacker would *actually* move through your envir
 
 > Educational and lab-focused work. Only use tooling and PoCs on systems you have explicit permission to test.
 
-- **[`hash-cracker`](https://github.com/c0ncatenate/hash-cracker)**    A small Python-based hash cracking tool built to understand how attackers handle password material in practice.
+- **[`transaction-system-attack-lab`](https://github.com/c0ncatenate/transaction-system-attack-lab)**  
+  A small multi-service transaction lab that models broken access control / IDOR on account data and how to detect it.
+  Paired with a write-up on my blog walking through the architecture, attack path, and mitigations.
+
+- **[`jwt-playground`](https://github.com/c0ncatenate/jwt-playground)**  
+  An interactive FastAPI app for teaching JWTs: signed-token flow, tampering with claims, expiry behaviour, and
+  common bad practices (for defensive training only).
+
+- **[`hash-cracker`](https://github.com/c0ncatenate/hash-cracker)**  \
+  A small Python-based hash cracking tool built to understand how attackers handle password material in practice.
   Focuses on wordlist-based cracking, hash parsing, and basic performance considerations – useful for reasoning
   about password policy, hash choices, and credential exposure risk.
 
-- **[`prometheus-ransomware`](https://github.com/c0ncatenate/prometheus-ransomware)**    A concept ransomware implementation in Python, created to study attacker TTPs end-to-end: discovery, file
+- **[`prometheus-ransomware`](https://github.com/c0ncatenate/prometheus-ransomware)**  \
+  A concept ransomware implementation in Python, created to study attacker TTPs end-to-end: discovery, file
   selection, encryption, and basic operator controls. Used as a lab to discuss detection opportunities, hardening
   strategies, and incident response rather than as a "productised" malware family.
 
-- **Personal Cyber Lab (in progress)**    I maintain a personal lab for simulating real-world attack paths, protocol-level abuse, and multi-system trust
+- **Personal Cyber Lab (in progress)**  \
+  I maintain a personal lab for simulating real-world attack paths, protocol-level abuse, and multi-system trust
   relationships using Linux, virtualisation, and network tooling. Public lab scenarios and PoCs will appear here
   over time, with a focus on:
   - authentication and messaging weaknesses,
