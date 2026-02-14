@@ -59,11 +59,6 @@ If your org cares about how an attacker would *actually* move through your envir
 - **[`prometheus-ransomware`](https://github.com/c0ncatenate/prometheus-ransomware)**  
   Concept ransomware in Python, built to study attacker TTPs and discuss defensive controls and incident response.
 
-- **[`php-reverse-shell`](https://github.com/c0ncatenate/php-reverse-shell)**  
-  Classic building block for web exploitation labs and internal training.
-
-- **Personal Cyber Lab (in progress)**  
-  I maintain a personal lab for simulating real-world attack paths, protocol-level abuse, and multi-system trust relationships using Linux, virtualisation, and network tooling.  
   Public lab scenarios and PoCs will appear here over time, with a focus on:
   - authentication and messaging weaknesses,
   - protocol edge cases,
